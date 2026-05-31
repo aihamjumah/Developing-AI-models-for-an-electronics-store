@@ -1,1 +1,7 @@
-Ecommerce-website/ecommerce/wp-content/ 
+Ecommerce-website/
+Shop-AI.zip
+*.zip
+wp-content/uploads/
+wp-admin/
+wp-includes/
+node_modules/
